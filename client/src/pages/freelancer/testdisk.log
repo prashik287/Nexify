@@ -1,0 +1,49 @@
+
+
+Fri Dec 20 19:49:58 2024
+Command line: TestDisk
+
+TestDisk 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 6.11.0-13-generic (#14-Ubuntu SMP PREEMPT_DYNAMIC Sat Nov 30 23:51:51 UTC 2024) x86_64
+Compiler: GCC 14.2
+ext2fs lib: 1.47.1, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.5
+/dev/sda: LBA, HPA, LBA48 support
+/dev/sda: size       500118192 sectors
+/dev/sda: user_max   500118192 sectors
+/dev/sda: native_max 500118192 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop18 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 256 GB / 238 GiB - CHS 31130 255 63, sector size=512 - Geonix 256GB, FW:3G5A
+Disk /dev/sdb - 62 GB / 57 GiB - CHS 59153 64 32, sector size=512 - USB Flash Drive, FW:PMAP
+Disk /dev/loop0 - 77 MB / 74 MiB - 152056 sectors (RO), sector size=512
+Disk /dev/loop1 - 4096 B - 8 sectors (RO), sector size=512
+Disk /dev/loop10 - 13 MB / 13 MiB - 26968 sectors (RO), sector size=512
+Disk /dev/loop11 - 14 MB / 14 MiB - 28680 sectors (RO), sector size=512
+Disk /dev/loop12 - 40 MB / 38 MiB - 79520 sectors (RO), sector size=512
+Disk /dev/loop13 - 46 MB / 44 MiB - 90720 sectors (RO), sector size=512
+Disk /dev/loop14 - 270 KB / 264 KiB - 528 sectors (RO), sector size=512
+Disk /dev/loop15 - 131 MB / 124 MiB - 255976 sectors (RO), sector size=512
+Disk /dev/loop16 - 157 MB / 150 MiB - 308400 sectors (RO), sector size=512
+Disk /dev/loop17 - 157 MB / 150 MiB - 308416 sectors (RO), sector size=512
+Disk /dev/loop2 - 146 MB / 139 MiB - 285808 sectors (RO), sector size=512
+Disk /dev/loop3 - 77 MB / 73 MiB - 151288 sectors (RO), sector size=512
+Disk /dev/loop4 - 284 MB / 271 MiB - 556304 sectors (RO), sector size=512
+Disk /dev/loop5 - 529 MB / 505 MiB - 1034424 sectors (RO), sector size=512
+Disk /dev/loop6 - 11 MB / 11 MiB - 22752 sectors (RO), sector size=512
+Disk /dev/loop7 - 11 MB / 10 MiB - 21952 sectors (RO), sector size=512
+Disk /dev/loop8 - 96 MB / 91 MiB - 187776 sectors (RO), sector size=512
+Disk /dev/loop9 - 94 MB / 89 MiB - 183680 sectors (RO), sector size=512
+
+Partition table type (auto): EFI GPT
+Disk /dev/sda - 256 GB / 238 GiB - Geonix 256GB
+Partition table type: Intel
+
+Interface Advanced
+Geometry from i386 MBR: head=256 sector=63
+check_part_i386 1 type EE: no test
+ 1 P EFI GPT                  0   0  2 31130 233 63  500118191
+
+TestDisk exited normally.
