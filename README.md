@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-alpha-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/yourusername/nexify?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/yourusername/nexify?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/prashik287/nexify?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/prashik287/nexify?style=for-the-badge" />
 </p>
 
 > 🤝 *Nexify is a platform for freelancers and clients to communicate with real-time progress tracking, featuring GitHub integration.*  
