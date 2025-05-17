@@ -16,7 +16,7 @@ Nexify is designed to facilitate seamless communication between freelancers and 
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/440ec5c8-c463-41f9-9411-09466970a6a2)
+## < img src="https://github.com/user-attachments/assets/440ec5c8-c463-41f9-9411-09466970a6a2"/>
  Tech Stack
 
 - **Frontend**: React
